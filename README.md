@@ -50,11 +50,16 @@ The game requires a `words.txt` file that contains the words to be used in the g
 2. Open `words.txt` in a text editor and add your words, one per line:
 
     ```plaintext
-    rust
-    programming
-    hangman
-    game
-    development
+    Rust
+    Hangman
+    Juicy Apple
+    Php is dead
+    Jomo
+    Why I am
+    Writing random
+    Words here
+    I do not even
+    Know
     ```
 
 3. Save and close the file.
